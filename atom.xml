@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-12-24T09:25:37.604Z</updated>
+  <updated>2020-12-26T04:56:52.579Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>第一篇文章</title>
+    <link href="http://example.com/2020/12/26/first-article/"/>
+    <id>http://example.com/2020/12/26/first-article/</id>
+    <published>2020-12-26T04:52:53.000Z</published>
+    <updated>2020-12-26T04:56:52.579Z</updated>
+    
+    <content type="html"><![CDATA[<p>作為此網站的第一篇文章，目標在能夠精進自己的技能，往後的道路上，能夠突破以往的框架。<br>目前致力於撰寫課程-期末報告，期望成果豐碩。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;作為此網站的第一篇文章，目標在能夠精進自己的技能，往後的道路上，能夠突破以往的框架。&lt;br&gt;目前致力於撰寫課程-期末報告，期望成果豐碩。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="beginner" scheme="http://example.com/tags/beginner/"/>
+    
+  </entry>
+  
+  <entry>
     <title>新手上路</title>
     <link href="http://example.com/2020/12/24/hello-world/"/>
     <id>http://example.com/2020/12/24/hello-world/</id>
     <published>2020-12-24T08:59:07.384Z</published>
-    <updated>2020-12-24T09:25:37.604Z</updated>
+    <updated>2020-12-26T05:03:41.233Z</updated>
     
     <content type="html"><![CDATA[<p>歡迎來到此網站，本網站會不定時添加新文章和分享相關作品，歡迎各路高手一起學習和競爭！！</p>]]></content>
     
